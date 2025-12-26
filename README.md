@@ -26,13 +26,13 @@
 
 ### 📊 Minh chứng năng lực học tập
 <p align="center">
-  <!-- Bảng Chuỗi ngày code - Đang chạy tốt nên giữ nguyên -->
   <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=dark" height="180" />
 </p>
 
 <p align="center">
-  <!-- Bảng Ngôn ngữ - Dùng Server dự phòng (Mirror) ổn định hơn -->
-  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=ID4PHUC&theme=dark&layout=compact&hide_border=true" height="180" />
+  <a href="https://github.com/ID4PHUC">
+    <img src="https://img.shields.io/badge/Xem_Ngôn_Ngữ_Sử_Dụng-Dữ_Liệu_Thực_Tế-green?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 
