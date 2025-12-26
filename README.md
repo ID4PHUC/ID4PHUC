@@ -46,6 +46,7 @@
 
 <p align="center">
   <i>"Hành trình vạn dặm bắt đầu từ những bước chân đầu tiên." 🚀</i>
+  "Học không phải là để biết mọi thứ, mà là để làm được những gì mình biết."
 </p>
 
 <p align="center">
