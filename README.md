@@ -28,14 +28,20 @@
 
 ---
 
+---
+
 ### 📊 Minh chứng năng lực học tập
 <p align="center">
-  <!-- Bảng thống kê chuỗi ngày code liên tục -->
-  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=dark&hide_border=true" height="180" />
-  
-  <!-- Bảng các ngôn ngữ bạn thực sự code nhiều nhất -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=dark&hide_border=true" height="180" />
+  <!-- Bảng Chuỗi ngày code -->
+  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=dark" height="185" />
 </p>
+
+<p align="center">
+  <!-- Bảng Ngôn ngữ (Đã sửa link để ổn định hơn) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=dark&hide_border=true" height="185" />
+</p>
+
+---
 
 ---
 ---
