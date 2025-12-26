@@ -29,9 +29,11 @@
 ### 📊 Thống kê hoạt động
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ID4PHUC&show_icons=true&theme=dark&count_private=true" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=dark" height="180" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=dark" height="180" />
 </p>
 
 ---
