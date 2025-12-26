@@ -28,11 +28,15 @@
 
 ### 📊 Thống kê hoạt động
 <p align="center">
+  <!-- Bảng thống kê chung - Đã sửa link -->
   <img src="https://github-readme-stats.vercel.app/api?username=ID4PHUC&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" />
+  
+  <!-- Bảng chuỗi ngày code (Streak) -->
   <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=dark&hide_border=true" height="180" />
 </p>
 
 <p align="center">
+  <!-- Bảng các ngôn ngữ bạn dùng nhiều nhất -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=dark&hide_border=true" height="180" />
 </p>
 
