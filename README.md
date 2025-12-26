@@ -26,15 +26,17 @@
 
 ---
 
-### 📊 Thống kê hoạt động
+### 📊 Thống kê hoạt động & Minh chứng năng lực
+*Click vào các nút dưới đây để xem dữ liệu thực tế từ hệ thống:*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ID4PHUC&show_icons=true&theme=dark&locale=en" alt="Stats" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=dark" alt="Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=dark&locale=en" alt="Languages" />
-</p>
+[![Xem Thống Kê Tổng Quan](https://img.shields.io/badge/Dữ_Liệu-Thống_Kê_Tổng_Quan-blue?style=for-the-badge&logo=github)](https://github-readme-stats.vercel.app/api?username=ID4PHUC&show_icons=true&theme=dark)
+[![Xem Chuỗi Ngày Code](https://img.shields.io/badge/Dữ_Liệu-Chuỗi_Ngày_Lập_Trình-orange?style=for-the-badge&logo=github)](https://streak-stats.demolab.com/?user=ID4PHUC&theme=dark)
+[![Xem Ngôn Ngữ Sử Dụng](https://img.shields.io/badge/Dữ_Liệu-Ngôn_Ngữ_Sử_Dụng-green?style=for-the-badge&logo=github)](https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=dark)
+
+#### 📝 Ý nghĩa các chỉ số:
+1. **Total Contributions:** Tổng số lần đóng góp (Commit code, tạo dự án...) từ 18/11/2023. Chỉ số này thể hiện khối lượng công việc và kinh nghiệm thực hành mình đã trải qua.
+2. **Current Streak:** Chuỗi ngày lập trình liên tục hiện tại. Đây là minh chứng cho tính kỷ luật và thói quen rèn luyện kỹ năng mỗi ngày.
+3. **Longest Streak:** Chuỗi ngày lập trình liên tục dài nhất trong lịch sử. Nó thể hiện sự kiên trì và bền bỉ trong hành trình học tập ngành MIS và Dev.
 
 ---
 
