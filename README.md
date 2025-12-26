@@ -26,15 +26,14 @@
 
 ---
 
-### 📊 Thống kê hoạt động
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ID4PHUC&show_icons=true&theme=dark&count_private=true" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=dark" height="180" />
-</p>
+## 📊 Thống kê hoạt động
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=dark" height="180" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ID4PHUC&show_icons=true&theme=dark&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ID4PHUC&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=dark)
+
 
 ---
 
