@@ -24,6 +24,8 @@
 | **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) |
 
+------------
+
 ### 📊 Minh chứng năng lực học tập
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=dark" height="180" />
@@ -35,6 +37,12 @@
   </a>
 </p>
 
+#### 📝 Ý nghĩa các chỉ số thống kê:
+1. **Total Contributions:** Tổng số lần mình đã đóng góp code (Commit), tạo dự án hoặc xử lý lỗi. Con số này thể hiện khối lượng kiến thức thực tế mình đã thực hành.
+2. **Current Streak:** Chuỗi ngày mình lập trình liên tục không nghỉ. Đây là minh chứng cho **Kỷ luật tự học** - một yếu tố cực kỳ quan trọng đối với một Dev.
+3. **Longest Streak:** Kỷ lục số ngày làm việc liên tục dài nhất. Nó thể hiện sự bền bỉ và kiên trì trong việc theo đuổi mục tiêu Fullstack.
+
+---------
 
 ### 📬 Kết nối với mình nhé!
 - 👤 **Facebook:** [Trần Trọng Phúc](https://www.facebook.com/trantrongphuc.id/)
