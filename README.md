@@ -26,25 +26,19 @@
 
 ---
 
----
-
----
-
 ### 📊 Minh chứng năng lực học tập
 <p align="center">
-  <!-- Bảng Chuỗi ngày code -->
-  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=dark" height="185" />
+  <!-- Bảng Chuỗi ngày code - Đang chạy tốt nên giữ nguyên -->
+  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=dark" height="180" />
 </p>
 
 <p align="center">
-  <!-- Bảng Ngôn ngữ (Đã sửa link để ổn định hơn) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=dark&hide_border=true" height="185" />
+  <!-- Bảng Ngôn ngữ - Dùng Server dự phòng (Mirror) ổn định hơn -->
+  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=ID4PHUC&theme=dark&layout=compact&hide_border=true" height="180" />
 </p>
 
 ---
 
----
----
 
 ### 📬 Kết nối với mình nhé!
 - 👤 **Facebook:** [Trần Trọng Phúc](https://www.facebook.com/trantrongphuc.id/)
