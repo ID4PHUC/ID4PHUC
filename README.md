@@ -1,4 +1,4 @@
-# 👋 Chào mọi người, mình là TRẦN TRỌNG PHÚC (ID4PHUC)
+# 👋 Chào mọi người, mình là TRẦN TRỌNG PHÚC
 ### <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00B09B&width=435&lines=Fullstack+Developer+Student;MIS+Information+Systems+Student;Learning+Everyday..." />
 
 <p align="left">
