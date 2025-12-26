@@ -39,10 +39,13 @@
 
 ---
 
-### 📬 Kết nối với mình
-<p align="left">
-<a href="https://www.facebook.com/trantrongphuc.id/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/social/facebook/default.svg" alt="ID4PHUC" height="30" width="40" /></a>
-<a href="mailto:phuc.trantrong@email.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/social/gmail/default.svg" alt="ID4PHUC" height="30" width="40" /></a>
+### 📬 Kết nối với mình nhé!
+- 👤 **Facebook:** [Trần Trọng Phúc](https://www.facebook.com/trantrongphuc.id/)
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 **Email:** [phuc.trantrong@email.com](mailto:phuc.trantrong@email.com)
+
+<p align="center">
+  <i>"Hành trình vạn dặm bắt đầu từ những bước chân đầu tiên." 🚀</i>
 </p>
 
 <p align="center">
