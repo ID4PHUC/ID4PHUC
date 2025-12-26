@@ -29,7 +29,6 @@
 ### 📊 Thống kê học tập trên GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ID4PHUC&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=dark&hide_border=true" height="180" />
 </p>
 
 ---
