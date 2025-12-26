@@ -24,20 +24,16 @@
 | **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) |
 
----
-
 ### 📊 Minh chứng năng lực học tập
 <p align="center">
-  <!-- Bảng Chuỗi ngày code - Đang chạy tốt nên giữ nguyên -->
   <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=dark" height="180" />
 </p>
 
 <p align="center">
-  <!-- Bảng Ngôn ngữ - Dùng Server dự phòng (Mirror) ổn định hơn -->
-  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=ID4PHUC&theme=dark&layout=compact&hide_border=true" height="180" />
+  <a href="https://github.com/ID4PHUC">
+    <img src="https://img.shields.io/badge/Xem_Ngôn_Ngữ_Sử_Dụng-Dữ_Liệu_Thực_Tế-green?style=for-the-badge&logo=github" />
+  </a>
 </p>
-
----
 
 
 ### 📬 Kết nối với mình nhé!
