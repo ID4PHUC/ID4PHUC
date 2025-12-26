@@ -26,11 +26,18 @@
 
 ---
 
-### 📊 Thống kê học tập trên GitHub
+---
+
+### 📊 Minh chứng năng lực học tập
 <p align="center">
+  <!-- Bảng thống kê chuỗi ngày code liên tục -->
   <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=dark&hide_border=true" height="180" />
+  
+  <!-- Bảng các ngôn ngữ bạn thực sự code nhiều nhất -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=dark&hide_border=true" height="180" />
 </p>
 
+---
 ---
 
 ### 📬 Kết nối với mình nhé!
@@ -39,5 +46,5 @@
 - 📧 **Email:** [phuc.trantrong@email.com](mailto:phuc.trantrong@email.com)
 
 <p align="center">
-  <i>"Hành trình vạn dặm bắt đầu từ những bước chân đầu tiên." 🚀</i>
+  "Học không phải là để biết mọi thứ, mà là để làm được những gì mình biết."
 </p>
