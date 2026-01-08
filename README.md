@@ -29,16 +29,15 @@
 ### 📊 Minh chứng năng lực (Hoạt động thực tế)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ID4PHUC&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ID4PHUC&theme=tokyonight" alt="Streak Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ID4PHUC&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="185" />
+  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=tokyonight" alt="Streak Stats" height="185" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages" height="185" />
 </p>
 
-> **Lưu ý:** Các chỉ số trên dựa trên số lượng Commit, Pull Request và Issues thực tế mỗi ngày. Nó thể hiện tính kỷ luật và khả năng duy trì dự án của mình.
-
+> **Mẹo nhỏ:** Các chỉ số này sẽ tự động cập nhật mỗi khi bạn push code mới. Nếu bạn muốn thống kê cả các dự án riêng tư (Private), hãy đọc hướng dẫn ở bước 2 nhé!
 ---
 
 ### 📬 Kết nối với mình
