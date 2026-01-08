@@ -10,8 +10,8 @@
 ### 👨‍💻 Giới thiệu bản thân
 - 🎓 **Chuyên ngành:** Hệ thống thông tin quản lý (MIS) - Sự kết hợp giữa Công nghệ & Quản trị kinh doanh.
 - 🚀 **Định hướng:** Trở thành Fullstack Web Developer chuyên về Java (Spring Boot) và Vue.js.
-- 🌱 **Hành trình:** Đang trong quá trình tự học và xây dựng các dự án thực tế để tích lũy kinh nghiệm.
-- 💡 **Tư duy:** Tập trung vào việc giải quyết các vấn đề nghiệp vụ thông qua lập trình.
+- 🌱 **Hành trình:** Đang trong quá trình tự học và xây dựng các dự án thực tế.
+- 💡 **Tư duy:** Giải quyết bài toán nghiệp vụ thông qua lập trình tối ưu.
 
 ---
 
@@ -24,29 +24,29 @@
 | **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) |
 
-------------
+---
 
-### 📊 Minh chứng năng lực học tập
+### 📊 Minh chứng năng lực (Hoạt động thực tế)
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ID4PHUC&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ID4PHUC&theme=tokyonight" alt="Streak Stats" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ID4PHUC&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
-#### 📝 Ý nghĩa các chỉ số thống kê:
-1. **Total Contributions:** Tổng số lần mình đã đóng góp code (Commit), tạo dự án hoặc xử lý lỗi. Con số này thể hiện khối lượng kiến thức thực tế mình đã thực hành.
-2. **Current Streak:** Chuỗi ngày mình lập trình liên tục không nghỉ. Đây là minh chứng cho **Kỷ luật tự học** - một yếu tố cực kỳ quan trọng đối với một Dev.
-3. **Longest Streak:** Kỷ lục số ngày làm việc liên tục dài nhất. Nó thể hiện sự bền bỉ và kiên trì trong việc theo đuổi mục tiêu Fullstack.
+> **Lưu ý:** Các chỉ số trên dựa trên số lượng Commit, Pull Request và Issues thực tế mỗi ngày. Nó thể hiện tính kỷ luật và khả năng duy trì dự án của mình.
 
----------
+---
 
-### 📬 Kết nối với mình nhé!
-- 👤 **Facebook:** [Trần Trọng Phúc](https://www.facebook.com/trantrongphuc.id/)
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📧 **Email:** [phuc.trantrong@email.com](mailto:phuc.trantrong@email.com)
+### 📬 Kết nối với mình
+<p align="left">
+<a href="https://www.facebook.com/trantrongphuc.id/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trantrongphuc.id" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ID4PHUC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ID4PHUC" height="30" width="40" /></a>
+</p>
 
 <p align="center">
-  "Học không phải là để biết mọi thứ, mà là để làm được những gì mình biết."
+  <i>"Học không phải là để biết mọi thứ, mà là để làm được những gì mình biết."</i>
 </p>
