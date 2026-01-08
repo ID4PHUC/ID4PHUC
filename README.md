@@ -28,26 +28,21 @@
 ### 📊 Minh chứng năng lực (Hoạt động thực tế)
 
 <p align="center">
-  <!-- Server dự phòng 1 - Stats -->
-  <img src="https://github-readme-stats-tau-three.vercel.app/api?username=ID4PHUC&show_icons=true&theme=vision-friendly-dark&count_private=true&cache_id=1" alt="GitHub Stats" height="185" />
-  
-  <!-- Server dự phòng 2 - Streak -->
-  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=vision-friendly-dark&cache_id=1" alt="Streak Stats" height="185" />
+  <!-- Sử dụng Server dự phòng mới nhất -->
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=ID4PHUC&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="190" />
+  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=tokyonight" alt="Streak Stats" height="190" />
 </p>
 
 <p align="center">
-  <!-- Server dự phòng 3 - Top Langs -->
-  <img src="https://github-readme-stats-tau-three.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=vision-friendly-dark&hide_progress=true&cache_id=1" alt="Top Languages" height="185" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages" height="190" />
 </p>
 
 ---
 
-### 📈 Tóm tắt hoạt động (Metrics chuyên nghiệp)
+### 📈 Tóm tắt hoạt động cá nhân
 <p align="center">
   <img src="https://metrics.lecoq.io/ID4PHUC?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage&theme=tokyonight" width="100%" />
 </p>
-
-> **Lưu ý:** Nếu sau khi lưu mà vẫn thấy ảnh vỡ, bạn hãy nhấn **Ctrl + F5** (hoặc Cmd + Shift + R trên Mac) để trình duyệt xóa cache nhé!
 ---
 
 ### 📬 Kết nối với mình
