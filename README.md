@@ -32,9 +32,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ID4PHUC">
-    <img src="https://img.shields.io/badge/Xem_Ngôn_Ngữ_Sử_Dụng-Dữ_Liệu_Thực_Tế-green?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ID4PHUC&theme=dark" height="180" />
 </p>
 
 #### 📝 Ý nghĩa các chỉ số thống kê:
