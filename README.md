@@ -37,6 +37,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages" height="185" />
 </p>
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/ID4PHUC?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage&theme=tokyonight" width="100%" />
+</p>
 > **Mẹo nhỏ:** Các chỉ số này sẽ tự động cập nhật mỗi khi bạn push code mới. Nếu bạn muốn thống kê cả các dự án riêng tư (Private), hãy đọc hướng dẫn ở bước 2 nhé!
 ---
 
