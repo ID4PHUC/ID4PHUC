@@ -25,7 +25,7 @@
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) |
 
 ---
-### 📊 Minh chứng năng lực (Hoạt động thực tế)
+### 📊 Hoạt động
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ID4PHUC&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="190" />
