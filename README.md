@@ -1,7 +1,6 @@
-
-# 👋 Chào mọi người, mình là TRẦN TRỌNG PHÚC
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm50MXFlbnNqZW80cmVnOHY2b3c1ZWVrY2Q1dDNqbXJjbmlxeXlrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvF9tTPPW0pcQ/giphy.gif" width="120" align="right" />
 
+# 👋 Chào mọi người, mình là TRẦN TRỌNG PHÚC
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ID4PHUC&label=Lượt%20xem%20hồ%20sơ&color=0e75b6&style=flat" alt="ID4PHUC" />
