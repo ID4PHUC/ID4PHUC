@@ -30,12 +30,13 @@
 ### 📊 Hoạt động GitHub
 
 <p align="center">
-  <!-- Sử dụng server dự phòng (mirror) để ổn định hơn -->
+  <!-- Link đã đổi sang server dự phòng one-eight -->
   <img src="https://github-readme-stats-one-eight.vercel.app/api?username=ID4PHUC&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=tokyonight" alt="Streak Stats" height="180" />
 </p>
 
 <p align="center">
+  <!-- Link này cũng đã đổi sang server dự phòng -->
   <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=tokyonight&hide_progress=true&count_private=true&include_all_commits=true" alt="Top Languages" height="165" />
 </p>
 
