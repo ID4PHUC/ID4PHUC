@@ -30,12 +30,13 @@
 ### 📊 Hoạt động GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ID4PHUC&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=tokyonight&cache_seconds=1800" alt="Streak Stats" height="180" />
+  <!-- Sử dụng server dự phòng (mirror) để ổn định hơn -->
+  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=ID4PHUC&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=tokyonight" alt="Streak Stats" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=tokyonight&hide_progress=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=tokyonight&hide_progress=true&count_private=true&include_all_commits=true" alt="Top Languages" height="165" />
 </p>
 
 ---
