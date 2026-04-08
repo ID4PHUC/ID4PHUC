@@ -57,3 +57,7 @@
 <p align="center">
   <i>"Học không phải là để biết mọi thứ, mà là để làm được những gì mình biết."</i>
 </p>
+
+
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVlcWFtZjM3MXg4NWxoMTh1c3llYmhlMTV4c2V6ZTFmNHVodWc4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LRZ6U2Z6MnVcUP9UkO/giphy.gif" width="120" align="right" />
