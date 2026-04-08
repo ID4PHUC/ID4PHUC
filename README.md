@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ID4PHUC/ID4PHUC/main/banner.png" width="100%" alt="Banner" />
+</p>
+
+
+
+
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm50MXFlbnNqZW80cmVnOHY2b3c1ZWVrY2Q1dDNqbXJjbmlxeXlrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvF9tTPPW0pcQ/giphy.gif" width="120" align="right" />
 
 # 👋 Chào mọi người, mình là TRẦN TRỌNG PHÚC
