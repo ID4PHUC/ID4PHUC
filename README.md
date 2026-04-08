@@ -27,12 +27,16 @@
 ### 📊 Hoạt động
 
 <p align="center">
+  <!-- Bảng thống kê chung - đã thêm đếm cả repo Private -->
   <img src="https://github-readme-stats.vercel.app/api?username=ID4PHUC&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="190" />
+  
+  <!-- Bảng chuỗi ngày commit -->
   <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=tokyonight&cache_seconds=1800" alt="Streak Stats" height="190" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=tokyonight&hide_progress=true&cache_seconds=1800" alt="Top Languages" height="190" />
+  <!-- Bảng ngôn ngữ - thêm include_all_commits để quét kỹ hơn -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=tokyonight&hide_progress=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Top Languages" height="190" />
 </p>
 
 ---
