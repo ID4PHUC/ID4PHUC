@@ -36,15 +36,10 @@
 ### 📊 Hoạt động GitHub
 
 <p align="center">
-  <img src="https://lammau-nu.vercel.app/api?username=ID4PHUC&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=radical" alt="Streak Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=tokyonight" alt="Streak Stats" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://lammau-nu.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=radical&hide_progress=true&count_private=true&include_all_commits=true" alt="Top Languages" height="165" />
-</p>
-
-
+---
 ### 📬 Kết nối với mình
 <p align="left">
 <a href="https://www.facebook.com/trantrongphuc.id/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trantrongphuc.id" height="30" width="40" /></a>
