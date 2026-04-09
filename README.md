@@ -28,12 +28,12 @@
 ### 🛠️ Công cụ & Công nghệ sử dụng
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftword.svg" title="Microsoft Word" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" title="Microsoft Excel" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" title="Visual Studio Code" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" title="pgAdmin4 / PostgreSQL" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/filezilla.svg" title="FileZilla" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vmware.svg" title="VMware" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_word/microsoft_word-icon.svg" title="Microsoft Word" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" title="Microsoft Excel" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" title="Visual Studio Code" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="pgAdmin4 / PostgreSQL" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/filezilla/filezilla-icon.svg" title="FileZilla" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" title="VMware" width="45" height="45"/>
 </p>
 
 ### Kỹ năng lập trình
