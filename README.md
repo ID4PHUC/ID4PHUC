@@ -30,14 +30,6 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://api.iconify.design/logos:microsoft-word-icon.svg" width="40" height="40" alt="Word"/><br />
-      <sub><b>Word</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://api.iconify.design/logos:microsoft-excel-icon.svg" width="40" height="40" alt="Excel"/><br />
-      <sub><b>Excel</b></sub>
-    </td>
-    <td align="center">
       <img src="https://api.iconify.design/logos:visual-studio-code.svg" width="40" height="40" alt="VS Code"/><br />
       <sub><b>VS Code</b></sub>
     </td>
