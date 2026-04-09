@@ -34,16 +34,17 @@
 
 ---
 
+
+
 ### 📊 Hoạt động GitHub
 
 <p align="center">
-  <!-- Tôi đã thêm &v=final để ép GitHub xóa cache ảnh cũ -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ID4PHUC&show_icons=true&theme=radical&count_private=true&v=final" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=radical&v=final" alt="Streak Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ID4PHUC&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=ID4PHUC&theme=radical" alt="Streak Stats" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=radical&hide_progress=true&count_private=true&include_all_commits=true&v=final" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID4PHUC&layout=compact&theme=radical&hide_progress=true&count_private=true&include_all_commits=true" alt="Top Languages" height="165" />
 </p>
 
 ---
