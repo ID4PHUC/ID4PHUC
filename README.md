@@ -38,10 +38,6 @@
       <sub><b>pgAdmin</b></sub>
     </td>
     <td align="center">
-      <img src="https://api.iconify.design/logos:filezilla.svg" width="40" height="40" alt="FileZilla"/><br />
-      <sub><b>FileZilla</b></sub>
-    </td>
-    <td align="center">
       <img src="https://api.iconify.design/logos:vmware.svg" width="40" height="40" alt="VMware"/><br />
       <sub><b>VMware</b></sub>
     </td>
