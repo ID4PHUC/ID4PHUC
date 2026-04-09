@@ -9,6 +9,7 @@
 
 # 👋 Chào mọi người, mình là TRẦN TRỌNG PHÚC
 
+---
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ID4PHUC&label=Lượt%20xem%20hồ%20sơ&color=0e75b6&style=flat" alt="ID4PHUC" />
 </p>
