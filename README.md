@@ -28,12 +28,12 @@
 ### 🛠️ Công cụ & Công nghệ sử dụng
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_word/microsoft_word-icon.svg" title="Microsoft Word" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" title="Microsoft Excel" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" title="Visual Studio Code" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="pgAdmin4 / PostgreSQL" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/filezilla/filezilla-icon.svg" title="FileZilla" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" title="VMware" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" title="Microsoft Word" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" title="Microsoft Excel" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" title="Visual Studio Code" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" title="pgAdmin4 / PostgreSQL" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/filezilla/BF0000" title="FileZilla" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vmware/607078" title="VMware" width="45" height="45"/>
 </p>
 
 ### Kỹ năng lập trình
