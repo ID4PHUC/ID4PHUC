@@ -27,14 +27,34 @@
 
 ### 🛠️ Công cụ & Công nghệ sử dụng
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" title="Microsoft Word" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" title="Microsoft Excel" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" title="Visual Studio Code" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" title="pgAdmin4 / PostgreSQL" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/filezilla/BF0000" title="FileZilla" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vmware/607078" title="VMware" width="45" height="45"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://api.iconify.design/logos:microsoft-word-icon.svg" width="40" height="40" alt="Word"/><br />
+      <sub><b>Word</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.iconify.design/logos:microsoft-excel-icon.svg" width="40" height="40" alt="Excel"/><br />
+      <sub><b>Excel</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.iconify.design/logos:visual-studio-code.svg" width="40" height="40" alt="VS Code"/><br />
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.iconify.design/logos:postgresql.svg" width="40" height="40" alt="pgAdmin"/><br />
+      <sub><b>pgAdmin</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.iconify.design/logos:filezilla.svg" width="40" height="40" alt="FileZilla"/><br />
+      <sub><b>FileZilla</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.iconify.design/logos:vmware.svg" width="40" height="40" alt="VMware"/><br />
+      <sub><b>VMware</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Kỹ năng lập trình
 
