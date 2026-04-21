@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ID4PHUC/yolo_logo/main/banner.png" width="100%" alt="Banner" />
+  <img src="https://github.com/ID4PHUC/yolo_logo/blob/main/header-banner.png" width="100%" alt="Banner" />
 </p>
 
 
