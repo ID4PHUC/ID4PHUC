@@ -64,8 +64,7 @@
 ### 📬 Kết nối với mình
 <p align="left">
 <a href="https://www.facebook.com/trantrongphuc.id/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trantrongphuc.id" height="30" width="40" /></a>
-#<a href="https://linkedin.com/in/ID4PHUC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ID4PHUC" height="30" #width="40" /></a>
-#</p>
+
 
 <p align="center">
   <i>"Học không phải là để biết mọi thứ, mà là để làm được những gì mình biết."</i>
