@@ -27,8 +27,6 @@
 
 # 👗 MODERNA - Clothing Ecommerce System
 
-## 🚀 [XEM BẢN DEMO TRỰC TUYẾN TẠI ĐÂY](https://moderna-clothing-ecommerce.vercel.app/)
-
 ---
 [![Live Demo](https://moderna-clothing-ecommerce.vercel.app)](https://moderna-clothing-ecommerce.vercel.app/)
 
