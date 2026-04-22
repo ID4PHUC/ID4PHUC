@@ -28,8 +28,6 @@
 # 👗 MODERNA - Clothing Ecommerce System
 
 ---
-[![Live Demo](https://moderna-clothing-ecommerce.vercel.app)](https://moderna-clothing-ecommerce.vercel.app/)
-
 <a href="https://moderna-clothing-ecommerce.vercel.app">
   <img src="https://github.com/user-attachments/assets/e4231f9e-c1aa-49a6-878e-0736cc9e246a" alt="Moderna Clothing Preview" width="100%">
 </a>
