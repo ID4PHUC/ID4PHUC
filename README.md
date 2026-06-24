@@ -17,14 +17,6 @@
 
 ---
 
-### 👨‍💻 Giới thiệu bản thân
-- 🎓 **Hệ thống thông tin quản lý (MIS)** - Sự kết hợp giữa Code & Quản lý kinh doanh.
-- 🚀 **Định hướng:** Trở thành Fullstack Web Developer.
-- 🌱 **Hành trình:** Đang trong quá trình tự học và xây dựng các dự án thực tế.
-- 💡 **Tư duy:** Giải quyết vấn đề bằng những gì có thể.
-
----
-
 # 👗 MODERNA - Clothing Ecommerce System
 
 ---
